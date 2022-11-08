@@ -19,7 +19,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <ProjectReference Include="..\Unit\Unit.csproj" />
+    <ProjectReference Include="..\ATM\ATM.csproj" />
   </ItemGroup>
 
 </Project>

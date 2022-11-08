@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/Unit.csproj",
-      "projectName": "Unit",
-      "projectPath": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/Unit.csproj",
+      "projectUniqueName": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/ATM.csproj",
+      "projectName": "ATM",
+      "projectPath": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/ATM.csproj",
       "packagesPath": "/home/curtrick/.nuget/packages/",
-      "outputPath": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/",
+      "outputPath": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/curtrick/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/bin/Debug/net6.0/ATM
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/bin/Debug/net6.0/ATM.deps.json
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/bin/Debug/net6.0/ATM.runtimeconfig.json
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/bin/Debug/net6.0/ATM.dll
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/bin/Debug/net6.0/ATM.pdb
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.dll
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/refint/ATM.dll
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.pdb
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ATM.genruntimeconfig.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/obj/Debug/net6.0/ref/ATM.dll

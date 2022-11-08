@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "Test/1.0.0": {
         "dependencies": {
+          "ATM": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.1.0",
-          "Unit": "1.0.0",
           "coverlet.collector": "3.1.2",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -1090,9 +1090,9 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "Unit/1.0.0": {
+      "ATM/1.0.0": {
         "runtime": {
-          "Unit.dll": {}
+          "ATM.dll": {}
         }
       }
     }
@@ -1747,7 +1747,7 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "Unit/1.0.0": {
+    "ATM/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

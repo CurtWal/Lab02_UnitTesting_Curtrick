@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Unit/1.0.0": {
+      "ATM/1.0.0": {
         "runtime": {
-          "Unit.dll": {}
+          "ATM.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Unit/1.0.0": {
+    "ATM/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

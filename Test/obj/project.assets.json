@@ -1803,14 +1803,14 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Unit/1.0.0": {
+      "ATM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Unit.dll": {}
+          "bin/placeholder/ATM.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Unit.dll": {}
+          "bin/placeholder/ATM.dll": {}
         }
       }
     }
@@ -6109,16 +6109,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Unit/1.0.0": {
+    "ATM/1.0.0": {
       "type": "project",
-      "path": "../Unit/Unit.csproj",
-      "msbuildProject": "../Unit/Unit.csproj"
+      "path": "../ATM/ATM.csproj",
+      "msbuildProject": "../ATM/ATM.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ATM >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
-      "Unit >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6149,8 +6149,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/Unit.csproj": {
-              "projectPath": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/Unit.csproj"
+            "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/ATM.csproj": {
+              "projectPath": "/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/ATM/ATM.csproj"
             }
           }
         }
