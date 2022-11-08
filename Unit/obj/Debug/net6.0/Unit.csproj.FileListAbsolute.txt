@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/bin/Debug/net6.0/Unit
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/bin/Debug/net6.0/Unit.deps.json
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/bin/Debug/net6.0/Unit.runtimeconfig.json
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/bin/Debug/net6.0/Unit.dll
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/bin/Debug/net6.0/Unit.pdb
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.dll
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/refint/Unit.dll
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.pdb
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/Unit.genruntimeconfig.cache
+/home/curtrick/code_401/Labs/Lab02_UnitTesting_Curtrick/Unit/obj/Debug/net6.0/ref/Unit.dll
